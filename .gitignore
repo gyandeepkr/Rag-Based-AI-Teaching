@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Project data
+videos/
+audios/
+jsons/
+embeddings.joblib
+response.txt
+prompt.txt
+# IDE
+.vscode/
+.idea/
